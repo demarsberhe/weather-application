@@ -1,0 +1,29 @@
+body{
+  background: #eeedec;
+  background-attachment: fixed;
+  background-image: url("https://wallpaper.dog/large/10719492.png");
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+
+.container{
+  max-width: 500px;
+}
+.icon{
+  border-radius: 50%;
+  margin-top: -50px;
+  
+}
+#hourlyWeatherButton{
+  background-color: lightgray;
+  padding: 2.5rem;
+  margin-bottom: 0;
+  cursor: pointer;
+
+}
+#hourlyWeatherButton:hover{
+  background-color: #eeedec;
+}
+
+ 
+
