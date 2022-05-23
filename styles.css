@@ -15,7 +15,7 @@ body{
   
 }
 #hourlyWeatherButton{
-  background-color: lightgray;
+  background-color: #f9f9f9;
   padding: 2.5rem;
   margin-bottom: 0;
   cursor: pointer;
